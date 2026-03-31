@@ -37,7 +37,7 @@ Maintenance Technician with 4+ years in industrial automation — now building a
 
 ## 🚀 Featured Project
 
-### 📚 [Book Store API](https://github.com/AliakseiS97/book-store-api)
+### 📚 Book Store API *(in progress)*
 > Full-featured REST API for an online bookstore
 
 Spring Boot · Docker · GitHub Actions CI/CD · Swagger/OpenAPI · JUnit
